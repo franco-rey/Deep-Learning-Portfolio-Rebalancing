@@ -1,1 +1,9 @@
-Franco
+This project first introduces the concept of mean-variance analysis in modern portfolio theory. We begin by demonstrating how to compute the mean, standard deviation, variance, and correlation for a sample portfolio of assets.
+
+The project then demonstrates how to optimimize a portfolio for a given risk tolerance to either minimize variance or maximize the expected returns.
+
+The project presents two strategies for rebalancing a portfolio to remain on the efficient frontier:
+
+One is a backward looking portfolio optimization method.
+
+The second method implements a Long Short-Term Memory model to predict future prices to balance the portfolio with.
